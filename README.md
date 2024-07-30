@@ -1,4 +1,4 @@
-# Chromebook-Restriction-Bypass-Tool (IN DEVELOPMENT)
+# Computer-Restriction-Bypass-Tool (IN DEVELOPMENT)
 this is going to be good...
 in the mean time, let me share some details
 
